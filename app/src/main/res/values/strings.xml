@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Gordox</string>
+    <string name="hello_people">Hello people!!</string>
+    <string name="i_m_radio_button">I\'m Radio Button</string>
+    <string name="sou_um_checkbox">Sou um Checkbox</string>
+    <string name="imc">IMC</string>
+    <string name="peso">Peso(ex.: 78.5 kg)</string>
+    <string name="altura">Altura (ex.: 1.70 m)</string>
+    <string name="calcular">Calcular</string>
 </resources>
